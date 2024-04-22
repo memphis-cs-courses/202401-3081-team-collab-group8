@@ -1,7 +1,7 @@
 class PagesController < ApplicationController
   def index
   end
-  def username
+  def riyaad1
 
   end
 end

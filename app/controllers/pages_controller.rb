@@ -1,7 +1,13 @@
 class PagesController < ApplicationController
   def index
   end
-  def riyaad1
 
+
+  def jeffnotjeffery
+  end
+ 
+  def riyaad1
   end
 end
+
+

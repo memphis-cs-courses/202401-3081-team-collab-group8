@@ -3,6 +3,11 @@ class PagesController < ApplicationController
   end
 
 
+  def lawrence_j_2001
+
+  end
+
+
   def wells7621
     render :wells7621
   end
@@ -15,6 +20,7 @@ class PagesController < ApplicationController
  
   def riyaad1
   end
+
 
 end
 

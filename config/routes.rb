@@ -11,5 +11,9 @@ Rails.application.routes.draw do
   # root "posts#index"
   root 'pages#index'
 
+
+  get 'lawrence_j_2001' , to: 'pages#lawrence_j_2001' , as: 'lawrence_j_2001'
+
   get 'wells7621', to: 'pages#wells7621', as: 'wells7621'
+
 end
